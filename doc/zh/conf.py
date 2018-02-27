@@ -70,8 +70,8 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = 'LightGBM'
-copyright = '2017, Microsoft Corporation. Translated by ApacheCN 开源组织'
+project = u'LightGBM 中文文档'
+copyright = u'2017, Microsoft Corporation. Translated by ApacheCN 开源组织, 机器学习企鹅交流群: 629470233'
 author = 'Microsoft Corporation'
 
 # The version info for the project you're documenting, acts as replacement for
